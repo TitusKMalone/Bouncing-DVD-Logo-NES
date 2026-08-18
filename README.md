@@ -1,6 +1,6 @@
 # Bouncing-DVD-Logo-NES
 
-![Preview](assets/demo.mp4)
+![Preview](assets/demo.gif)
 A bouncing DVD logo for the Nintendo Entertainment System, perfect for a standby screen!
 
 Two versions: BRB Bouncing Logo, and BRB Bouncing Logo w/ Mario
